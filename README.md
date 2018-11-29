@@ -27,7 +27,9 @@
 [✔]excluir fornecedor
 
 [❌]-Cadastrar venda de livros [criar pagina de cadastro de venda de livros]
+
 [❌]-Editar venda de livros [criar pagina de editar venda de venda de livros]
+
 [❌]-Excluir venda de livros [criar pagina de excluir cadastro de venda de livros]
 [❌]-Login de usuário [problema do login] -- (ele esta tudo certo cadastra usuario porem na comparaçao de senha digitada com senha que esta no banco de dados ele da erro e aparece como nao existente)
 [❌]-Upload imagem dos livros [dentro do crud de cadastro do livro]
